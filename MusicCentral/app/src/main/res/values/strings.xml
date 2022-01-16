@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MusicCentral</string>
+    <string-array name="mp3">
+        <item>https://docs.google.com/uc?export=download&amp;id=15hWEuFLkdDAqKliP7_uyweGvrNNPf-Sl</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=1pPOXDKClWut0-uNiZLBXqIaa0RgJK86L</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=1yXJnF6a8FRzENb6bjNpO-0PMGiffXo7b</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=10Q6yey2UA7SS1oe2VBH3BAfpkAEisknR</item>
+        <item>https://docs.google.com/uc?export=download&amp;id=1P6Qq7K2JDZAKuEuAUL2OjNb_XOBvSNYS</item>
+    </string-array>
+    <string-array name="picture">
+        <item>https://i1.sndcdn.com/artworks-000147633318-qo9yj3-t500x500.jpg</item>
+        <item>https://static.wikia.nocookie.net/the-bangtan-boys/images/e/ea/Lights_Boy_With_Luv_Single_Regular_Edition.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/b/bd/BTS_-_Make_It_Right.png</item>
+        <item>https://i1.sndcdn.com/artworks-000634256692-h10xeb-t500x500.jpg</item>
+        <item>https://pm1.narvii.com/7616/826d2d758ef1806e32f94cdf8be461100c621f97r1-1080-1156v2_hq.jpg</item>
+    </string-array>
+    <string-array name="title">
+        <item>Blue</item>
+        <item>Lights</item>
+        <item>Make It Right</item>
+        <item>Spring Day</item>
+        <item>Zero O\'Clock</item>
+    </string-array>
+    <string-array name="author">
+        <item>Big Bang</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+        <item>BTS</item>
+    </string-array>
+</resources>
